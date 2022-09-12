@@ -2,8 +2,8 @@
 # Título do Projeto
 Descrição do Projeto
 ## Autores
-- `Aluno 1`
-- Aluno 2
-- Aluno 3
-- Aluno 4
-- Aluno 5
+- `Gustavo de Almeida Bazan`
+- Lucca Gonçalves dos santos
+- Guilherme Takashi
+- Mario Secundino
+- Matheus yan
